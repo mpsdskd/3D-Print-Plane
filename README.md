@@ -11,7 +11,7 @@ Mostly 3D-printed flying wing
         - rough parts approx. along airflow
     - "low resolution" in z (-> Layer height)
         - Wing must be printed vertically with layer = xy-plane
-    - ~~ Reinforcements can be made by constructing very slim Cuts into the model. On Both sides of the cut the Slicer will create wall lines, thus adding additional plastic in places needed ~~
+    - ~~Reinforcements can be made by constructing very slim Cuts into the model. On Both sides of the cut the Slicer will create wall lines, thus adding additional plastic in places needed ~~
         - ~~Useful with reinforcemnts for wing spar, and screws~~
         - ~~Creade ribs by making a cut through the wing~~
     - Reinforcements: 
